@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+.score{
+  padding: 10px;
+  color: white;
+}
+.hight{
+  background-color: greenyellow;
+}
+.medium{
+  background-color: orange;
+}
+.low{
+  background-color: palevioletred;
+}
+.hint{
+  padding: 20px;
+  margin: 20px;
+  background-color: gray;
+  color: white;
+}
+.btn-letter{
+  cursor: pointer;
+  padding: 8px;
+  margin: 8px;
+  background-color: blue;
+  color: white;
+}
+.answer-true{
+  background-color: green;
+  color: white;
+}
+.answer-false{
+  background-color: palevioletred;
+  color: white;
+}
+.end-btn{
+  padding: 10px;
+  margin: 10px;
+  background-color: #282c34;
+  color: white;
+  cursor: pointer;
+}
